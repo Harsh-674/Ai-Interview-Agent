@@ -1,0 +1,6 @@
+{
+  "name": "Vivaan - AI Interview Coach",
+  "description": "A natural-sounding AI interview coach that helps you practice for job interviews with real-time voice feedback and scoring.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["AI Voice Agent", "Interactive Interviewing"]
+}
